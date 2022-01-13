@@ -9,7 +9,7 @@ function Footer() {
                 <div className="row">
 
                     <div className="col-lg-4 mb-3">
-                        <h5 id="contact">CONTACT ME</h5>
+                        <h5 id="contact">Contact Me</h5>
                         <ul className="list-unstyled">
                             <li className="mb-2"><a href="mailto: millie_tsai@me.com" target="_blank">Email</a></li>
                             <li className="mb-2"><a
@@ -19,7 +19,7 @@ function Footer() {
                     </div>
 
                     <div className="col-lg-4 mb-3">
-                        <h5 id="contact">FOLLOW ME</h5>
+                        <h5 id="contact">Follow Me</h5>
                         <ul className="list-unstyled">
                             <li className="mb-2"><a href="https://www.linkedin.com/in/millietsai/" target="_blank">Linkedin</a></li>
                             <li className="mb-2"><a href="https://github.com/MT0814?tab=repositories" target="_blank">GitHub</a></li>
