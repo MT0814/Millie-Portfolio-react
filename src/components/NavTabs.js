@@ -6,7 +6,7 @@ function NavTabs({ currentPage, handlePageChange }) {
   return (
     <nav className="navbar navbar-expand-lg navbar-light">
       <div className="container-fluid">
-        <a className="navbar-brand" href="#">MILLIE TSAI</a>
+        <a className="navbar-brand" href="#about" onClick={() => handlePageChange('About')}>MILLIE TSAI</a>
         <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav"
           aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
           <span>
@@ -15,17 +15,7 @@ function NavTabs({ currentPage, handlePageChange }) {
         </button>
         <div className="collapse navbar-collapse" id="navbarNav">
           <ul className="navbar-nav text-center">
-            <li className="nav-item">
-              <a
-                href="#home"
-                onClick={() => handlePageChange('Home')}
-                //  TODO: Add a comment explaining what this logic is doing
 
-                className={currentPage === 'Home' ? 'nav-link active' : 'nav-link'}
-              >
-                Home
-              </a>
-            </li>
             <li className="nav-item">
               <a
                 href="#about"
