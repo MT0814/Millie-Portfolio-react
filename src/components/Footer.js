@@ -29,7 +29,7 @@ function Footer() {
                     </div>
 
                     <div className="col-lg-4 mb-3">
-                        <a href="#">
+                        <a href="/">
                             <h2 className="fs-5">MILLIE TSAI</h2>
                         </a>
                         <ul className="list-unstyled">

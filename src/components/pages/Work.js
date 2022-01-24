@@ -3,7 +3,6 @@ import React from 'react';
 export default function Work() {
   return (
 
-
     <div className="container-fluid pt-5">
       <div className="row">
         <div className="col-lg-3 col-md-6 col-sm-12 small-cards mt-3 p-3" >
@@ -11,7 +10,7 @@ export default function Work() {
             <div className="card" >
               <img src={require("../../image/chef-recipe.png")}
                 alt="minibot" className="image"></img>
-              <div className="card-body">
+              <div className="card-body text-center">
                 <h5 className="card-title">Chef Recipe</h5>
                 <p className="card-text" >Easy, simple, tasty recipes on one click!</p >
                 <p className="card-text-0" >CSS/ JavaScript/
@@ -28,7 +27,7 @@ export default function Work() {
             <div className="card" >
               <img src={require("../../image/minibot-tech.png")}
                 alt="minibot" className="image"></img>
-              <div className="card-body">
+              <div className="card-body text-center">
                 <h5 className="card-title">Minibot Tech Blog</h5>
                 <p className="card-text" >Quickly post or comment on any bot-related news here!</p >
                 <p className="card-text-0" >CSS/ JavaScript/
@@ -44,7 +43,7 @@ export default function Work() {
             <div className="card" >
               <img src={require("../../image/gaming1.png")}
                 alt="minibot" className="image"></img>
-              <div className="card-body">
+              <div className="card-body text-center">
                 <h5 className="card-title ">Free Gaming Platform</h5>
                 <p className="card-text" >Play and save games to your favorites!</p >
                 <p className="card-text-0" >CSS/ JavaScript/
@@ -61,7 +60,7 @@ export default function Work() {
             <div className="card" >
               <img src={require("../../image/weather.png")}
                 alt="minibot" className="image"></img>
-              <div className="card-body">
+              <div className="card-body text-center">
                 <h5 className="card-title ">Weather app</h5>
                 <p className="card-text" >Check the cities' weather before you go.</p >
                 <p className="card-text-0" >CSS/ JavaScript/

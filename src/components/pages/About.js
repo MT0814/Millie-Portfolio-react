@@ -3,13 +3,14 @@ import React from 'react';
 export default function About() {
   return (
 
-    <div className='container-fluid about-text pt-5 mb-5' >
+    <div className='container-fluid about-text mb-5' >
+      <br></br><br></br><br></br><br></br>
       <div className='row' >
-        <div className='col-lg-6 col-sm-12'>
-          {/* <h1 className='h1 text-center'>About Me</h1> */}
-          <img className='img-fluid p-3 rounded' src={require("../../image/millie.gif")} width={'100%'} alt="millie"></img>
+        <div className='col-lg-6 col-sm-12 text-center'>
+          <img className='img-fluid p-3 rounded mb-3' src={require("../../image/millie.gif")} alt="millie"></img>
         </div >
         <div className='col-lg-6 col-sm-12' >
+          <h1 className='h1 text-center mt-5'>About Me</h1>
           <p className='about-p text-center'>
             8 years of experience in product design, software development, project management and
             business development. Worked cross-functionally to guide products from ideation to launch by connecting the
