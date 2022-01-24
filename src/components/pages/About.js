@@ -19,7 +19,7 @@ export default function About() {
             innovate the pleasant products to delight users. Designed <a href="https://www.asus.com/ca-en/site/2-in-1/asus-transformer-book/
             " target="_blank" rel="noreferrer">ASUS Transformer Tablet</a>, <a
               href="https://www.asus.com/us/Mobile/Phones/ZenFone/" target="_blank" rel="noreferrer">Zenfone</a>, <a href="https://www.cmcm.com/en/clean-master
-              " target="_blank" rel="noreferrer">Clean Master app</a>which has over <span class="highlight">40 millions</span>
+              " target="_blank" rel="noreferrer">Clean Master app </a>which has over <span class="highlight">40 millions </span>
             users globally. <br></br><br></br><br></br><span className='quoate'>"We're just enthusiastic about what we do."<br></br> --Steve Jobs</span>
           </p>
         </div >
