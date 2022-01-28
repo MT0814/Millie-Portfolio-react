@@ -78,4 +78,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 ![screenshot](./public/portfolio.png)
 
-Please click [HERE](https://mt0814.github.io/Millie-Portfolio-react/) for the Shop app.
+Please click [HERE](https://mt0814.github.io/Millie-Portfolio-react/) for the my portfolio react app.
