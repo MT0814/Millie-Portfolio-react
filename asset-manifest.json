@@ -1,18 +1,20 @@
 {
   "files": {
-    "main.css": "/Millie-Portfolio-react/static/css/main.f8629f3e.css",
-    "main.js": "/Millie-Portfolio-react/static/js/main.77c05f13.js",
+    "main.css": "/Millie-Portfolio-react/static/css/main.a5f2272e.css",
+    "main.js": "/Millie-Portfolio-react/static/js/main.b8e362c9.js",
     "static/media/millie.gif": "/Millie-Portfolio-react/static/media/millie.27436d328f4e7df4ee75.gif",
     "static/media/chef-recipe.png": "/Millie-Portfolio-react/static/media/chef-recipe.d7d623ec2c7a9944a417.png",
     "static/media/gaming1.png": "/Millie-Portfolio-react/static/media/gaming1.5b132425d2ad9aa00de9.png",
+    "static/media/code.png": "/Millie-Portfolio-react/static/media/code.6f3dc1cba58a6b69a3b4.png",
+    "static/media/scheduler.png": "/Millie-Portfolio-react/static/media/scheduler.1257947f7afc362ee2ed.png",
     "static/media/weather.png": "/Millie-Portfolio-react/static/media/weather.0b94cc35a8e3c102d156.png",
     "static/media/minibot-tech.png": "/Millie-Portfolio-react/static/media/minibot-tech.398969f39f1816aaf2e4.png",
     "index.html": "/Millie-Portfolio-react/index.html",
-    "main.f8629f3e.css.map": "/Millie-Portfolio-react/static/css/main.f8629f3e.css.map",
-    "main.77c05f13.js.map": "/Millie-Portfolio-react/static/js/main.77c05f13.js.map"
+    "main.a5f2272e.css.map": "/Millie-Portfolio-react/static/css/main.a5f2272e.css.map",
+    "main.b8e362c9.js.map": "/Millie-Portfolio-react/static/js/main.b8e362c9.js.map"
   },
   "entrypoints": [
-    "static/css/main.f8629f3e.css",
-    "static/js/main.77c05f13.js"
+    "static/css/main.a5f2272e.css",
+    "static/js/main.b8e362c9.js"
   ]
 }
