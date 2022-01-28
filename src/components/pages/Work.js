@@ -5,7 +5,7 @@ export default function Work() {
 
     <div className="container-fluid pt-5">
       <div className="row">
-        <div className="col-lg-3 col-md-6 col-sm-12 small-cards mt-3 p-3" >
+        <div className="col-lg-4 col-md-6 col-sm-12 small-cards mt-3 p-3" >
           <a href="https://chef-recipe-1.herokuapp.com/" target="_blank" rel="noopener noreferrer">
             <div className="card" >
               <img src={require("../../image/chef-recipe.png")}
@@ -22,14 +22,14 @@ export default function Work() {
           </a>
         </div >
 
-        <div className="col-lg-3 col-md-6 col-sm-12 small-cards mt-3 p-3" >
+        <div className="col-lg-4 col-md-6 col-sm-12 small-cards mt-3 p-3" >
           <a href="https://minibot-tech.herokuapp.com/" target="_blank" rel="noopener noreferrer">
             <div className="card" >
               <img src={require("../../image/minibot-tech.png")}
                 alt="minibot" className="image"></img>
               <div className="card-body text-center">
                 <h5 className="card-title">Minibot Tech Blog</h5>
-                <p className="card-text" >Quickly post or comment on any bot-related news here!</p >
+                <p className="card-text" >Post or comment on any bot-related news here!</p >
                 <p className="card-text-0" >CSS/ JavaScript/
                   MySQL/ MVC</p >
                 <a href="https://github.com/MT0814/14-MVC-Tech-Blog" target="_blank" rel="noopener noreferrer"><i
@@ -38,13 +38,13 @@ export default function Work() {
             </div >
           </a>
         </div >
-        <div className="col-lg-3 col-md-6 col-sm-12 small-cards mt-3 p-3" >
+        <div className="col-lg-4 col-md-6 col-sm-12 small-cards mt-3 p-3" >
           <a href="https://mt0814.github.io/Project-1_focus-gaming-platform/" target="_blank" rel="noopener noreferrer">
             <div className="card" >
               <img src={require("../../image/gaming1.png")}
                 alt="minibot" className="image"></img>
               <div className="card-body text-center">
-                <h5 className="card-title ">Free Gaming Platform</h5>
+                <h5 className="card-title ">Gaming Platform</h5>
                 <p className="card-text" >Play and save games to your favorites!</p >
                 <p className="card-text-0" >CSS/ JavaScript/
                   MySQL/ MVC</p >
@@ -55,7 +55,7 @@ export default function Work() {
           </a>
         </div >
 
-        <div className="col-lg-3 col-md-6 col-sm-12 small-cards mt-3 p-3" >
+        <div className="col-lg-4 col-md-6 col-sm-12 small-cards mt-3 p-3" >
           <a href="https://mt0814.github.io/Week6-Weather-dashboard/" target="_blank" rel="noopener noreferrer">
             <div className="card" >
               <img src={require("../../image/weather.png")}
@@ -63,9 +63,40 @@ export default function Work() {
               <div className="card-body text-center">
                 <h5 className="card-title ">Weather app</h5>
                 <p className="card-text" >Check the cities' weather before you go.</p >
-                <p className="card-text-0" >CSS/ JavaScript/
-                  MySQL/ MVC</p >
+                <p className="card-text-0" >CSS/ JavaScript/ OpenweatherAPIs</p >
                 <a href="https://github.com/MT0814/14-MVC-Tech-Blog" target="_blank" rel="noopener noreferrer"><i
+                  className="fa fa-github gicon" style={{ fontSize: "30px" }}></i></a>
+              </div >
+            </div >
+          </a>
+        </div >
+
+        <div className="col-lg-4 col-md-6 col-sm-12 small-cards mt-3 p-3" >
+          <a href="https://mt0814.github.io/Week4-HW-Code-Quiz/" target="_blank" rel="noopener noreferrer">
+            <div className="card" >
+              <img src={require("../../image/code.png")}
+                alt="minibot" className="image"></img>
+              <div className="card-body text-center">
+                <h5 className="card-title ">Code Quiz</h5>
+                <p className="card-text" >What the highest score you can get in 50sec!</p >
+                <p className="card-text-0" >CSS/ JavaScript</p >
+                <a href="https://github.com/MT0814/Week4-HW-Code-Quiz" target="_blank" rel="noopener noreferrer"><i
+                  className="fa fa-github gicon" style={{ fontSize: "30px" }}></i></a>
+              </div >
+            </div >
+          </a>
+        </div >
+
+        <div className="col-lg-4 col-md-6 col-sm-12 small-cards mt-3 p-3" >
+          <a href="https://mt0814.github.io/Week5-Work-Day-Scheduler/" target="_blank" rel="noopener noreferrer">
+            <div className="card" >
+              <img src={require("../../image/scheduler.png")}
+                alt="minibot" className="image"></img>
+              <div className="card-body text-center">
+                <h5 className="card-title ">Day Scheduler</h5>
+                <p className="card-text" >Create events to remind you of a day scheule.</p >
+                <p className="card-text-0" >CSS/ JavaScript/ moment.js</p >
+                <a href="https://github.com/MT0814/Week5-Work-Day-Scheduler" target="_blank" rel="noopener noreferrer"><i
                   className="fa fa-github gicon" style={{ fontSize: "30px" }}></i></a>
               </div >
             </div >

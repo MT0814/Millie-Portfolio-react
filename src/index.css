@@ -277,8 +277,18 @@ ul li {
 .small-cards {
   justify-content: center;
   display: flex;
+  border-radius: 2%;
   /* margin-bottom: 3%; */
 }
+
+.small-cards:hover {
+  transform: translate3D(0, -1px, 0) scale(1.03); /* move up slightly and zoom in */
+  /* box-shadow: 8px 28px 50px rgba(39, 44, 49, 0.07),
+    1px 6px 12px rgba(39, 44, 49, 0.04); */
+  transition: all 0.4s ease; /* zoom in */
+  cursor: pointer;
+}
+
 .card-title {
   font-size: 1.1em;
   text-align: center;
@@ -402,8 +412,16 @@ a {
 
 a:hover {
   color: var(--main);
-  transition: 0.3s ease;
-  font-weight: 500;
+  transform: translate3D(0, -1px, 0) scale(1.03); /* move up slightly and zoom in */
+  transition: all 0.4s ease; /* zoom in */
+  cursor: pointer;
+  font-weight: 400;
+}
+
+.icon:hover {
+  transform: translate3D(0, -1px, 0) scale(1.03); /* move up slightly and zoom in */
+  transition: all 0.4s ease; /* zoom in */
+  cursor: pointer;
 }
 
 .list-item {
@@ -416,11 +434,8 @@ a:hover {
 
 .list-item:hover {
   color: var(--main);
-  /* background-image: var(--background-image);
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent; */
-  /* text-shadow: 0 0 5px whitesmoke; */
 }
+
 .list-inline {
   text-align: center;
   margin-top: 2em;
@@ -567,4 +582,5 @@ h5 {
   background: url("data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHg9IjBweCIgeT0iMHB4Igp3aWR0aD0iMjQiIGhlaWdodD0iMjQiCnZpZXdCb3g9IjAgMCAxNzIgMTcyIgpzdHlsZT0iIGZpbGw6IzAwMDAwMDsiPjxnIGZpbGw9Im5vbmUiIGZpbGwtcnVsZT0ibm9uemVybyIgc3Ryb2tlPSJub25lIiBzdHJva2Utd2lkdGg9IjEiIHN0cm9rZS1saW5lY2FwPSJidXR0IiBzdHJva2UtbGluZWpvaW49Im1pdGVyIiBzdHJva2UtbWl0ZXJsaW1pdD0iMTAiIHN0cm9rZS1kYXNoYXJyYXk9IiIgc3Ryb2tlLWRhc2hvZmZzZXQ9IjAiIGZvbnQtZmFtaWx5PSJub25lIiBmb250LXdlaWdodD0ibm9uZSIgZm9udC1zaXplPSJub25lIiB0ZXh0LWFuY2hvcj0ibm9uZSIgc3R5bGU9Im1peC1ibGVuZC1tb2RlOiBub3JtYWwiPjxwYXRoIGQ9Ik0wLDE3MnYtMTcyaDE3MnYxNzJ6IiBmaWxsPSJub25lIj48L3BhdGg+PGcgZmlsbD0iIzY2NjY2NiI+PHBhdGggZD0iTTE0LjMzMzMzLDM1LjgzMzMzdjE0LjMzMzMzaDE0My4zMzMzM3YtMTQuMzMzMzN6TTE0LjMzMzMzLDc4LjgzMzMzdjE0LjMzMzMzaDE0My4zMzMzM3YtMTQuMzMzMzN6TTE0LjMzMzMzLDEyMS44MzMzM3YxNC4zMzMzM2gxNDMuMzMzMzN2LTE0LjMzMzMzeiI+PC9wYXRoPjwvZz48L2c+PC9zdmc+")
     50% 50% no-repeat;
   background-size: 100%;
+  color: white;
 }
