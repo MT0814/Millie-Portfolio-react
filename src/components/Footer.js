@@ -29,12 +29,12 @@ function Footer() {
                     </div>
 
                     <div className="col-lg-4 mb-3">
-                        <a href="/">
+                        <a href="#about">
                             <h2 className="fs-5">MILLIE TSAI</h2>
                         </a>
                         <ul className="list-unstyled">
                             <li className="mb-2" style={{ color: 'white' }}>Designed and built by Millie Tsai.</li>
-                            <li><a href="https://icons8.com/icon/82749/menu">Menu icon by Icons8</a></li>
+                            <li><a href="https://icons8.com/icon/82749/menu" target="_blank" rel="noopener noreferrer">Menu icon by Icons8</a></li>
                             <li class="mb-2">© 2022 Millie Tsai @UW Boot Camp. All Rights Reserved.</li>
 
                         </ul>
