@@ -11,7 +11,7 @@ export default function Work() {
               <img src={require("../../image/chef-recipe.png")}
                 alt="minibot" className="image"></img>
               <div className="card-body text-center">
-                <h5 className="card-title">Chef Recipe</h5>
+                <h5 className="card-title">Project 2 Chef Recipe</h5>
                 <p className="card-text" >Easy, simple, tasty recipes on one click!</p >
                 <p className="card-text-0" >CSS/ JavaScript/
                   MySQL/ MVC</p >
@@ -44,11 +44,11 @@ export default function Work() {
               <img src={require("../../image/gaming1.png")}
                 alt="minibot" className="image"></img>
               <div className="card-body text-center">
-                <h5 className="card-title ">Gaming Platform</h5>
+                <h5 className="card-title ">Project 1 Gaming Platform</h5>
                 <p className="card-text" >Play and save games to your favorites!</p >
                 <p className="card-text-0" >CSS/ JavaScript/
                   MySQL/ MVC</p >
-                <a href="https://github.com/MT0814/14-MVC-Tech-Blog" target="_blank" rel="noopener noreferrer"><i
+                <a href="https://github.com/MT0814/Project-1_focus-gaming-platform" target="_blank" rel="noopener noreferrer"><i
                   className="fa fa-github gicon" style={{ fontSize: "30px" }}></i></a>
               </div >
             </div >
@@ -64,7 +64,7 @@ export default function Work() {
                 <h5 className="card-title ">Weather app</h5>
                 <p className="card-text" >Check the cities' weather before you go.</p >
                 <p className="card-text-0" >CSS/ JavaScript/ OpenweatherAPIs</p >
-                <a href="https://github.com/MT0814/14-MVC-Tech-Blog" target="_blank" rel="noopener noreferrer"><i
+                <a href="https://github.com/MT0814/Week6-Weather-dashboard" target="_blank" rel="noopener noreferrer"><i
                   className="fa fa-github gicon" style={{ fontSize: "30px" }}></i></a>
               </div >
             </div >
