@@ -11,7 +11,7 @@ export default function Work() {
               <img src={require("../../image/chef-recipe.png")}
                 alt="minibot" className="image"></img>
               <div className="card-body text-center">
-                <h5 className="card-title">Project 2 Chef Recipe</h5>
+                <h5 className="card-title">Project 2: Chef Recipe</h5>
                 <p className="card-text" >Easy, simple, tasty recipes on one click!</p >
                 <p className="card-text-0" >CSS/ JavaScript/
                   MySQL/ MVC</p >
@@ -44,9 +44,9 @@ export default function Work() {
               <img src={require("../../image/influencer.jpeg")}
                 alt="minibot" className="image"></img>
               <div className="card-body text-center">
-                <h5 className="card-title ">Day Scheduler</h5>
-                <p className="card-text" >Create events to remind you of a day scheule.</p >
-                <p className="card-text-0" >CSS/ JavaScript/ moment.js</p >
+                <h5 className="card-title ">Project 3: Impress ME</h5>
+                <p className="card-text" >Making money by sharing what you love!</p >
+                <p className="card-text-0" >Semantic UI/ MonogDB/ React</p >
                 <a href="https://github.com/MT0814/Project3-meet-me" target="_blank" rel="noopener noreferrer"><i
                   className="fa fa-github gicon" style={{ fontSize: "30px" }}></i></a>
               </div >
@@ -59,7 +59,7 @@ export default function Work() {
               <img src={require("../../image/gaming1.png")}
                 alt="minibot" className="image"></img>
               <div className="card-body text-center">
-                <h5 className="card-title ">Project 1 Gaming Platform</h5>
+                <h5 className="card-title ">Project 1: Gaming Platform</h5>
                 <p className="card-text" >Play and save games to your favorites!</p >
                 <p className="card-text-0" >CSS/ JavaScript/
                   MySQL/ MVC</p >
