@@ -12,7 +12,7 @@ export default function Work() {
                 alt="minibot" className="image"></img>
               <div className="card-body text-center">
                 <h5 className="card-title">Project 2: Chef Recipe</h5>
-                <p className="card-text" >Easy, simple, tasty recipes on one click!</p >
+                <p className="card-text" >Easy, simple, tasty recipes on one click.</p >
                 <p className="card-text-0" >CSS/ JavaScript/
                   MySQL/ MVC</p >
                 <a href="https://github.com/MT0814/Chef-Recipe" target="_blank" rel="noopener noreferrer"><i
@@ -29,7 +29,7 @@ export default function Work() {
                 alt="minibot" className="image"></img>
               <div className="card-body text-center">
                 <h5 className="card-title">Minibot Tech Blog</h5>
-                <p className="card-text" >Post or comment on any bot-related news here!</p >
+                <p className="card-text" >Post or comment on any bot-related news here.</p >
                 <p className="card-text-0" >CSS/ JavaScript/
                   MySQL/ MVC</p >
                 <a href="https://github.com/MT0814/14-MVC-Tech-Blog" target="_blank" rel="noopener noreferrer"><i
@@ -45,7 +45,7 @@ export default function Work() {
                 alt="minibot" className="image"></img>
               <div className="card-body text-center">
                 <h5 className="card-title ">Project 3: Impress ME</h5>
-                <p className="card-text" >Making money by sharing what you love!</p >
+                <p className="card-text" >Share what you love as a Brand Ambassador.</p >
                 <p className="card-text-0" >Semantic UI/ MonogDB/ React</p >
                 <a href="https://github.com/MT0814/Project3-meet-me" target="_blank" rel="noopener noreferrer"><i
                   className="fa fa-github gicon" style={{ fontSize: "30px" }}></i></a>
@@ -60,7 +60,7 @@ export default function Work() {
                 alt="minibot" className="image"></img>
               <div className="card-body text-center">
                 <h5 className="card-title ">Project 1: Gaming Platform</h5>
-                <p className="card-text" >Play and save games to your favorites!</p >
+                <p className="card-text" >Play and save games to your favorites.</p >
                 <p className="card-text-0" >CSS/ JavaScript/
                   MySQL/ MVC</p >
                 <a href="https://github.com/MT0814/Project-1_focus-gaming-platform" target="_blank" rel="noopener noreferrer"><i
@@ -93,7 +93,7 @@ export default function Work() {
                 alt="minibot" className="image"></img>
               <div className="card-body text-center">
                 <h5 className="card-title ">Code Quiz</h5>
-                <p className="card-text" >What the highest score you can get in 50sec!</p >
+                <p className="card-text" >What the highest score you can get in 50secs.</p >
                 <p className="card-text-0" >CSS/ JavaScript</p >
                 <a href="https://github.com/MT0814/Week4-HW-Code-Quiz" target="_blank" rel="noopener noreferrer"><i
                   className="fa fa-github gicon" style={{ fontSize: "30px" }}></i></a>
