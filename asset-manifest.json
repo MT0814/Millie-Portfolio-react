@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Millie-Portfolio-react/static/css/main.a5f2272e.css",
-    "main.js": "/Millie-Portfolio-react/static/js/main.ba149679.js",
+    "main.js": "/Millie-Portfolio-react/static/js/main.dba7fae5.js",
     "static/media/millie.gif": "/Millie-Portfolio-react/static/media/millie.27436d328f4e7df4ee75.gif",
     "static/media/influencer.jpeg": "/Millie-Portfolio-react/static/media/influencer.5ed9b0540247840f73b1.jpeg",
     "static/media/chef-recipe.png": "/Millie-Portfolio-react/static/media/chef-recipe.d7d623ec2c7a9944a417.png",
@@ -12,10 +12,10 @@
     "static/media/minibot-tech.png": "/Millie-Portfolio-react/static/media/minibot-tech.398969f39f1816aaf2e4.png",
     "index.html": "/Millie-Portfolio-react/index.html",
     "main.a5f2272e.css.map": "/Millie-Portfolio-react/static/css/main.a5f2272e.css.map",
-    "main.ba149679.js.map": "/Millie-Portfolio-react/static/js/main.ba149679.js.map"
+    "main.dba7fae5.js.map": "/Millie-Portfolio-react/static/js/main.dba7fae5.js.map"
   },
   "entrypoints": [
     "static/css/main.a5f2272e.css",
-    "static/js/main.ba149679.js"
+    "static/js/main.dba7fae5.js"
   ]
 }
