@@ -61,8 +61,7 @@ export default function Work() {
               <div className="card-body text-center">
                 <h5 className="card-title ">Project 1: Gaming Platform</h5>
                 <p className="card-text" >Play and save games to your favorites.</p >
-                <p className="card-text-0" >CSS/ JavaScript/
-                  MySQL/ MVC</p >
+                <p className="card-text-0" >Materialize CSS/ JavaScript/ jQuery/ Free-To-Play Games API/ Pokémon API</p >
                 <a href="https://github.com/MT0814/Project-1_focus-gaming-platform" target="_blank" rel="noopener noreferrer"><i
                   className="fa fa-github gicon" style={{ fontSize: "30px" }}></i></a>
               </div >
